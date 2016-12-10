@@ -1,3 +1,4 @@
+--OR Gate
 library IEEE;
 use IEEE.STD_LOGIC_1164.all;
 
@@ -13,7 +14,8 @@ begin
 
 end orachi;
 
- library IEEE;
+--AND Gate
+library IEEE;
 use IEEE.STD_LOGIC_1164.all;
 
 entity ANDGATE is  	
