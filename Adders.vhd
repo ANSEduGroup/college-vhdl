@@ -26,7 +26,7 @@ PORT (    cin,a, b  : IN     STD_LOGIC ;
           s, cout    : OUT    STD_LOGIC ) ;
 END fulladd ;
 
--- Architecture of "fulladd" entity is "beh"
+-- Architecture of "fulladd" entity is "full_archi"
 
 ARCHITECTURE full_archi OF fulladd IS
 BEGIN
